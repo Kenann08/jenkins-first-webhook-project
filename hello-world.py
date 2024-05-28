@@ -1,1 +1,1 @@
-print('Hello World for Jenkins Job degisiklik')
+print('Hello World for Jenkins Job github')
